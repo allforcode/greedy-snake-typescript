@@ -1,0 +1,17 @@
+﻿body {
+}
+
+table{
+    border: solid 1px #000;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+tr{
+    height: 15px;
+}
+
+td{
+    width: 15px;
+    border: solid 1px #000;
+}
